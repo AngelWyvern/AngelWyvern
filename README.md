@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AngelDTF/AngelDTF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### <p align="center"> :warning: Update on my projects </p>
+
+I've decided to freeze most of my projects to take time to focus on things one at a time for a better workflow, and to focus more on my health, so I apologize if I'm unable to meet your expectations with some stuff, I just really need the time to heal from my IBD.
+
+### <p align="center"> ℹ️ Extended description </p>
+
+Hey all, I do programming for fun, and I hope some people can get as much enjoyment out of my projects as I had making them. A lot of them are still heavy work in progresses, so don't expect anything big any time soon, but trust me, I've got some big stuff coming.
+
+##### For inquiries, you can reach me at my more business-oriented email: angelbot32@icloud.com
