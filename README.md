@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### <p align="center"> :warning: Update on my projects </p>
+### <p align="center"> :warning: Update on OpenParsec </p>
 
-I've decided to freeze most of my projects to take time to focus on things one at a time for a better workflow, and to focus more on my health, so I apologize if I'm unable to meet your expectations with some stuff, I just really need the time to heal from my IBD.
+Unity's legal team sent me a Cease & Desist, and I've been forced to take it down. I'm going to reach out further and see if some compromise can be reached, but for now, all we can do is wait. It's been a fun ride though.
 
 ### <p align="center"> ℹ️ Extended description </p>
 
