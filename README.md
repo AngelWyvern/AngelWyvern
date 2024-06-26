@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### <p align="center"> :warning: Notice </p>
 
 ###### Username notice
-My GitHub username has recently been changed from `AngelDTF` to `AngelWyvern` to remove brand attachment. My apologies if this caused any confusion, I hope to never have to change my username again.
+My GitHub username has recently been changed from `AngelDTF` to `AngelWyvern` to remove brand association. My apologies if this caused any confusion, I hope to never have to change my username again.
 
 ###### OpenParsec notice
 OpenParsec has been discontinued after Unity's legal team sent me a cease & desist order. I want to give a huge shout out to these great people that have helped me out with the project: [`@LeaveNhA`](https://github.com/LeaveNhA), [`@bslatyer`](https://github.com/bslatyer), [`@dicksonhk`](https://github.com/dicksonhk), and [`@xiaoxuhuanxiang`](https://github.com/xiaoxuhuanxiang).
