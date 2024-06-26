@@ -13,12 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### <p align="center"> :warning: Update on OpenParsec </p>
+### <p align="center"> :warning: Notice </p>
 
-Unity's legal team sent me a Cease & Desist, and I've been forced to take it down. I'm going to reach out further and see if some compromise can be reached, but for now, all we can do is wait. It's been a fun ride though.
+###### Username notice
+My GitHub username has recently been changed from `AngelDTF` to `AngelWyvern` to remove brand attachment. My apologies if this caused any confusion, I hope to never have to change my username again.
 
-### <p align="center"> ℹ️ Extended description </p>
+###### OpenParsec notice
+OpenParsec has been discontinued after Unity's legal team sent me a cease & desist order. I want to give a huge shout out to these great people that have helped me out with the project: [`@LeaveNhA`](https://github.com/LeaveNhA), [`@bslatyer`](https://github.com/bslatyer), [`@dicksonhk`](https://github.com/dicksonhk), and [`@xiaoxuhuanxiang`](https://github.com/xiaoxuhuanxiang).
 
-Hey all, I do programming for fun, and I hope some people can get as much enjoyment out of my projects as I had making them. A lot of them are still heavy work in progresses, so don't expect anything big any time soon, but trust me, I've got some big stuff coming.
+### <p align="center"> ℹ️ About me </p>
+
+Hey all, I'm a self-taught hobbyist software developer that enjoys tinkering with game modding. I'm a bit of a perfectionist and tend to take my time with my work, so please be patient. I also tend to take up projects that are more than I can handle, so understand that a good chunk of my projects are never seeing the light of day.
+
+I mostly work in Haxe and JavaScript, though I've played around in other languages before, with good experience in HTML and CSS, some experience in C#, Java and Swift, and little experience in C and C++.
 
 ##### For inquiries, you can reach me at my more business-oriented email: angelbot32@icloud.com
