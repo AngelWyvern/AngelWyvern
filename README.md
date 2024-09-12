@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### <p align="center"><img src="resources/badge_notice.png" alt="Notice"/></p>
+### <p align="center"><img src="resources/badge_notice.svg" alt="⚠ Notice"/></p>
 
 ###### Username notice
 My GitHub username has recently been changed from `AngelDTF` to `AngelWyvern` to remove brand association. My apologies if this caused any confusion, I hope to never have to change my username again.
@@ -21,7 +21,7 @@ My GitHub username has recently been changed from `AngelDTF` to `AngelWyvern` to
 ###### OpenParsec notice
 OpenParsec has been discontinued after Unity's legal team sent me a cease & desist order. I want to give a huge shout out to these great people that have helped me out with the project: [`@LeaveNhA`](https://github.com/LeaveNhA), [`@bslatyer`](https://github.com/bslatyer), [`@dicksonhk`](https://github.com/dicksonhk), and [`@xiaoxuhuanxiang`](https://github.com/xiaoxuhuanxiang).
 
-### <p align="center"><img src="resources/badge_aboutme.png" alt="About Me"/></p>
+### <p align="center"><img src="resources/badge_aboutme.svg" alt="🛈 About Me"/></p>
 
 Hey all, I'm a self-taught hobbyist software developer that enjoys tinkering with game modding. I'm a bit of a perfectionist and tend to take my time with my work, so please be patient. I also tend to take up projects that are more than I can handle, so understand that a good chunk of my projects are never seeing the light of day.
 
